@@ -1,34 +1,30 @@
-# Project J & K
+# Project J & K 🚀
 
-![Project Banner](https://example.com/path/to/banner_image.jpg) <!-- Replace with the URL of your banner image -->
+Welcome to Project J & K! This is a small study group project consisting of four individuals who are passionate about learning algorithms and web programming. The goal of this project is to enhance our understanding of algorithms, Python, C/C++, and web development technologies.
 
-## Group Members
-1. Member 1
-   ![Member 1](https://example.com/path/to/member1_image.jpg) <!-- Replace with the URL of member 1's image -->
-2. Member 2
-   ![Member 2](https://example.com/path/to/member2_image.jpg) <!-- Replace with the URL of member 2's image -->
-3. Member 3
-   ![Member 3](https://example.com/path/to/member3_image.jpg) <!-- Replace with the URL of member 3's image -->
-4. Member 4
-   ![Member 4](https://example.com/path/to/member4_image.jpg) <!-- Replace with the URL of member 4's image -->
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Algorithms](#algorithms)
+- [Web Programming](#web-programming)
+- [Setup](#setup)
+- [Timeline](#timeline)
 
-### Project Description
-Add a brief description of your project here.
+## Project Overview
+Project J & K is a collaborative effort to explore both algorithmic problem-solving and web programming. The project is divided into two main tracks: algorithms and web programming.
 
-### Technologies Used
-- Technology 1
-- Technology 2
-- Technology 3
+## Algorithms 🧠
+The algorithms part of the project is set to be completed by November 2023. We are focusing on Python and C/C++ for algorithmic problem-solving. In this phase, we will be working on various algorithms and data structures, enhancing our problem-solving skills.
 
-### How to Contribute
-If you'd like to contribute to the project, please follow these steps:
+## Web Programming 💻
+The web programming phase will commence in September 2023. Technologies such as HTML, CSS, and JavaScript, along with other relevant tools, will be used to build web applications. This phase will allow us to apply our programming knowledge to real-world projects.
 
-1. Fork the repository.
-2. Clone your forked repository to your local machine.
-3. Create a new branch for your feature or bug fix.
-4. Make your changes and commit them.
-5. Push the changes to your fork.
-6. Open a pull request.
+## Setup ⚙️
+No specific setup is required for this project. Each member can use their preferred development environment for both algorithms and web programming. Collaboration and communication tools will be used to coordinate efforts and share progress.
 
-### License
-This project is licensed under the [Your License Name](https://example.com/path/to/license) <!-- Replace with the URL to your license file -->
+## Timeline 📅
+- **Algorithms Phase:** In progress, targeted completion by November 2023.
+- **Web Programming Phase:** Scheduled to start in September 2023.
+
+Feel free to explore each track independently or collaborate across both tracks. Regular communication and collaboration are encouraged to make the most out of this learning experience.
+
+Happy coding! 🎉
